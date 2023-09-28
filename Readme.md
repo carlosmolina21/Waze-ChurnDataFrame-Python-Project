@@ -1,4 +1,4 @@
-﻿# Waze User Churn Analysis
+﻿# Waze User Churn Dataframe Analysis
 
 ## Project Overview
 
